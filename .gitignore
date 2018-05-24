@@ -1,7 +1,6 @@
 *.pyc
 *~
 __pycache__
-django-rest-tutorial
 db.splite3
 /static
 .DS_Store
