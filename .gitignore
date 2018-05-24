@@ -1,7 +1,7 @@
 *.pyc
 *~
 __pycache__
-myvenv
+django-rest-tutorial
 db.splite3
 /static
 .DS_Store
